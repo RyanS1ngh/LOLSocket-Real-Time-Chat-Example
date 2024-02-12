@@ -1,0 +1,16 @@
+{
+  "name": "lolsocket-real-time-chat-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js",
+    "dev": "nodemon server.js"
+  },
+  "author": "Ryan Singh",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "lolsocket-sdk": "^1.0.1"
+  }
+}
